@@ -1,0 +1,6 @@
+-Para instalar el proyecto como una librería
+-Primero activar el ambiente final-proyect
+-Después ejecutar el comando
+pip install --editable .
+
+ob: para editar el proyecto, modificar las funciones el comportamiento de algunas variables.
